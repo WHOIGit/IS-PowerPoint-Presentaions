@@ -1,1 +1,1 @@
-# IS-PowerPoint-Presentaions
+# IS-PowerPoint-Presentations
